@@ -5,7 +5,7 @@ ruby '2.5.3'
 
 # Spree Store
 gem 'spree', '~> 4.1'
-gem 'spree_auth_devise', '~> 4.1'
+gem 'spree_auth_devise', '~> 4.2'
 gem 'spree_gateway', '~> 3.7'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
